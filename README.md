@@ -5,7 +5,7 @@
 *koray.tug@gmail.com*
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/koray-tug/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/koray-tug/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/koray-tug/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/koray-tug/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/koraytug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/koraytug" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/koraytug/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/koraytug/" height="30" width="40" /></a>
 </p>
