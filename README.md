@@ -6,7 +6,7 @@ Full Stack Developer and Team Leader
 
 20+ years of working as a Senior Software Engineer with extensive experience in software development, including architecture design, object-oriented programming, patterns, principles, software methodologies with various development tools, web and android applications. Managed technical projects as a technical lead, using technical and analytical skills to problem solve both independently, as well as part of a group. Seeking to obtain an application development/engineering position where my strong leadership, mentoring and technical skills provide value for the organization.
 
-* 🌍  I'm based in Turkey/İzmir
+* 🌍  I'm based in Germany/Freiburg
 * ✉️  You can contact me at [koray.tug@gmail.com](mailto:koray.tug@gmail.com)
 
 <a href="https://www.github.com/koraytug" target="_blank" rel="noreferrer"><img
